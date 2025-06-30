@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
   - family-names: Alinejadtabrizi
-    given-namess: Tahereh (Nasim)
+    given-names: Tahereh (Nasim)
     orcid: https://orcid.org/my-orcid?orcid=0000-0002-8526-697X
     affiliation: Monash University
   - family-names: Tomasiuk
